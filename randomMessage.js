@@ -7,3 +7,4 @@ function randomGenerator(array) {
 }
 
 console.log('The ' + randomGenerator(adjectives) + ' ' + randomGenerator(nouns) + ' ' + randomGenerator(verbs) + '!');
+console.log("Hellow world")
